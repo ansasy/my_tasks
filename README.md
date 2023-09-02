@@ -5,7 +5,7 @@
 
 
 
-This is my github projects for MIA
+These are my github projects for MIA
 ### Table of Contents
 - [Introduction](#introduction)
 - [C_Programming](#C_Programming)
