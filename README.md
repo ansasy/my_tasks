@@ -13,7 +13,7 @@ this repo consists of different genres.
 i have included arduino projects, python projects, projects on proteus, and C programming projects.
 you will find each of them in thier assigned branches
 
-I hope you enjoy :)
+I hope you find this useful :)
 
 
 
